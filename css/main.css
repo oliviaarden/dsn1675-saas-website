@@ -11,12 +11,12 @@ html {
 }
 
 .prefooter {
-  background-color: silver;
+  background-color: lightgrey;
   margin: 0;
 }
 
 .footer {
-  background-color: lightgrey;
+  background-color: silver;
 }
 
 .center {
