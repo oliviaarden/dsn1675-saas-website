@@ -1,5 +1,5 @@
 html {
-  font-family: serif;
+  font-family: 'Raleway';
 }
 
 .bannerimage {
@@ -10,13 +10,13 @@ html {
   width: 100%;
 }
 
-.footer {
-  background-color: lightgrey;
-}
-
 .prefooter {
   background-color: silver;
   margin: 0;
+}
+
+.footer {
+  background-color: lightgrey;
 }
 
 .center {
