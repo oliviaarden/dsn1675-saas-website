@@ -23,6 +23,10 @@ html {
   text-align: center;
 }
 
+a:focus {
+  outline: 3px solid #000;
+}
+
 @media only screen and (min-width: 25em) {
 
    nav ul {
