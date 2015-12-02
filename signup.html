@@ -30,12 +30,120 @@
       </ul>
     </nav>
     <div class="unit xs-1 s-1 m-1 l-1">
-      <h2 class="text-center">Sign up here!</h2>
+      <h2 class="text-center">Sign up.</h2>
     </div>
   </div>
 </header>
 
 <main role="main" id="main">
+<div class="grid">
+  <div class="grid xs-1 s-1 m-1-2 l-1-2">
+<div>
+  <h2 class="gutter pad-t unit xs-1 s-1 m-1 l-1">Contact Info</h2>
+</div>
+
+<form action="https://formspree.io/arde0020@algonquinlive.com" method="post">
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="name">Full Name</label>
+  <input name="name" id="name" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="email">Your email</label>
+  <input name="email" id="email" type="email" placeholder="you@thing.com" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="username">Username</label>
+  <input name="username" id="username" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="password">Password</label>
+  <input name="password" id="password" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="phonenumber">Phone Number</label>
+  <input name="phonenumber" id="phonenumber" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="country">Country</label>
+  <input name="country" id="country" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="province">Province</label>
+  <input name="province" id="province" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="postalcode">Postal Code</label>
+  <input name="postalcode" id="postalcode" required>
+</div>
+</div>
+
+<div class="grid unit xs-1 s-1 m-1-2 l-1-2">
+<div>
+  <h2 class="gutter pad-t unit xs-1 s-1 m-1 l-1">Payment Method</h2>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="plan">Select Plan</label>
+  <select id="plan" name="_plan">
+    <option>Free</option>
+    <option>Premium</option>
+    <option>Mega Premium</option>
+  </select>
+</div>
+
+<fieldset class="gutter pad-b unit xs-1 s-1 m-1 l-1" required>
+  <legend>How would you like to pay? *Do not fill out if chosen Free plan.</legend>
+
+  <input id="visa" type="radio" name="payment">
+  <label for="visa">Visa</label>
+
+  <input id="mastercard" type="radio" name="payment">
+  <label for="mastercard">Mastercard</label>
+
+  <input id="visadebit" type="radio" name="payment">
+  <label for="visadebit">VisaDebit</label>
+
+  <input id="other" type="radio" name="payment">
+  <label for="other">Other</label>
+
+</fieldset>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="othercard">Please indicate if chosen Other</label>
+  <input name="othercard" id="othercard" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="nameoncard">Name on card</label>
+  <input name="nameoncard" id="nameoncard" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="cardnumber">Card number</label>
+  <input name="cardnumber" id="cardnumber" required>
+</div>
+
+<div class="gutter pad-b unit xs-1 s-1 m-1 l-1">
+  <label for="secutiry">Security number</label>
+  <input name="security" id="security" required>
+</div>
+</div>
+</div>
+
+<div class="center pad-b">
+  <button type="submit">Submit!</button>
+</div>
+
+
+<input type="hidden" name="_next" value="http://oliviaarden.github.io/dsn1675-saas-website/thank-you">
 
 <footer role="contentinfo" class="footer pad-t gutter">
   <div class="center">
