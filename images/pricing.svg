@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="218.2px"
-	 height="193.8px" viewBox="0 0 218.2 193.8" enable-background="new 0 0 218.2 193.8" xml:space="preserve">
-<g id="Layer_1" display="none">
-</g>
-<g id="Layer_2">
-	<g>
-		<polygon points="55,133.9 95.7,77.7 118.7,67.3 141.1,77.7 141.1,97.5 105.8,157.8 		"/>
-		<ellipse fill="#FFFFFF" cx="120.8" cy="81.5" rx="6.1" ry="5.3"/>
-		
-			<text transform="matrix(0.8561 0.5168 -0.5168 0.8561 78.8317 119.8459)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="55.0008px">$</text>
-		<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M156.8,36c-3.9,15.4-16.4,27-28.8,37
-			c-1.5,1.2-3,2.4-4,4c-1,1.6-1.4,3.8-0.6,5.5c0.9,1.7,3.3,2.6,4.8,1.5"/>
-	</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="218.2" height="193.8" viewBox="0 0 218.2 193.8"><g><path d="M55 133.9l40.7-56.2 23-10.4 22.4 10.4v19.8l-35.3 60.3z"/><ellipse fill="#fff" cx="120.8" cy="81.5" rx="6.1" ry="5.3"/><text transform="matrix(.856 .517 -.517 .856 78.832 119.846)" fill="#fff" font-family="'MyriadPro-Bold'" font-size="55.001">$</text><path stroke="#000" stroke-width="2" stroke-miterlimit="10" d="M156.8 36c-3.9 15.4-16.4 27-28.8 37-1.5 1.2-3 2.4-4 4s-1.4 3.8-.6 5.5c.9 1.7 3.3 2.6 4.8 1.5" fill="none"/></g></svg>

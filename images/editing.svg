@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="162.2px"
-	 height="170px" viewBox="0 0 162.2 170" enable-background="new 0 0 162.2 170" xml:space="preserve">
-<g id="Layer_1" display="none">
-</g>
-<g id="Layer_2">
-	<g>
-		<polyline points="113.8,44.6 113.8,18.6 48.4,18.5 48.4,114.2 113.8,114.2 113.8,82 		"/>
-		<polygon stroke="#FFFFFF" stroke-miterlimit="10" points="84.2,49.5 87,46.7 100.1,58.3 97.2,61.1 		"/>
-		<polygon stroke="#FFFFFF" stroke-miterlimit="10" points="101.6,56.2 106.4,51.2 93.9,40.1 89.1,45 		"/>
-		<path stroke="#FFFFFF" stroke-miterlimit="10" d="M84.8,53.5l-2.3-2.2L62.2,71.2c0,0-3,11.8-3.6,16.2c0,0,2.7-0.3,16.9-4.4
-			l19.9-20L84.8,53.5"/>
-	</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="162.2" height="170" viewBox="0 0 162.2 170"><g><path d="M113.8 44.6v-26l-65.4-.1v95.7h65.4v-32.2"/><path stroke="#fff" stroke-miterlimit="10" d="M84.2 49.5l2.8-2.8 13.1 11.6-2.9 2.8zM101.6 56.2l4.8-5-12.5-11.1-4.8 4.9zM84.8 53.5l-2.3-2.2-20.3 19.9s-3 11.8-3.6 16.2c0 0 2.7-.3 16.9-4.4l19.9-20-10.6-9.5"/></g></svg>
