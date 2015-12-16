@@ -11,12 +11,12 @@ html {
 }
 
 .prefooter {
-  background-color: #99ffff;
+  background-color: #31C4BC;
   margin: 0;
 }
 
 .footer {
-  background-color: #df80ff;
+  background-color: #92278F;
 }
 
 .center {
@@ -25,15 +25,6 @@ html {
 
 a:focus {
   outline: 3px solid #000;
-}
-
-.skip-links a {
-  position: absolute;
-  top: -3em;
-}
-
-.skip-links a:focus {
-  top: 0;
 }
 
 label {
@@ -46,7 +37,7 @@ label {
   text-decoration: none;
   color: black;
   border-radius: 10px;
-  background-color: #dd99ff;
+  background-color: #92278F;
 }
 
 @media only screen and (min-width: 25em) {
